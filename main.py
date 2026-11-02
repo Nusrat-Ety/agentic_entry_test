@@ -1,1 +1,0 @@
-print("Hello! My university test setup is ready.")
